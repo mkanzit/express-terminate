@@ -1,0 +1,26 @@
+{
+  "name": "express-terminate",
+  "version": "1.0.0",
+  "description": "Gracefully shutdown an express server",
+  "keywords": [
+    "kubernetes",
+    "prometheus"
+  ],
+  "author": {
+    "email": "mkanzit.tech@gmail.com",
+    "name": "Mossaab KANZIT"
+  },
+  "main": "index.js",
+  "typings": "./dist/src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkanzit/express-terminate"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "BSD-3-Clause"
+}
